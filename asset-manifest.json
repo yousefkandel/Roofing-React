@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Roofing-React/static/css/main.c5eb5603.css",
-    "main.js": "/Roofing-React/static/js/main.b4f83522.js",
+    "main.js": "/Roofing-React/static/js/main.07543dd7.js",
     "static/media/hero-bg1.png": "/Roofing-React/static/media/hero-bg1.647affd816a77a0a53e2.png",
     "static/media/hero-img19.png": "/Roofing-React/static/media/hero-img19.6b89b67386a4761fec4e.png",
     "static/media/fa-solid-900.woff2": "/Roofing-React/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
@@ -54,10 +54,10 @@
     "static/media/sub-logo1.svg": "/Roofing-React/static/media/sub-logo1.27d9696c0ffd0d3c459fd2a94eed8c60.svg",
     "static/media/sub-logo4.svg": "/Roofing-React/static/media/sub-logo4.324bc519ff4f8fe6e603142a6d1701b2.svg",
     "main.c5eb5603.css.map": "/Roofing-React/static/css/main.c5eb5603.css.map",
-    "main.b4f83522.js.map": "/Roofing-React/static/js/main.b4f83522.js.map"
+    "main.07543dd7.js.map": "/Roofing-React/static/js/main.07543dd7.js.map"
   },
   "entrypoints": [
     "static/css/main.c5eb5603.css",
-    "static/js/main.b4f83522.js"
+    "static/js/main.07543dd7.js"
   ]
 }
